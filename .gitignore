@@ -1,0 +1,9 @@
+
+desktop.ini
+.vs/VSWorkspaceState.json
+.vs/slnx.sqlite
+*.ipch
+*.db
+.vs/ProjectSettings.json
+.vs/sc.hurst/v15/.suo
+dummy.vcxproj.user
